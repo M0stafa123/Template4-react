@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  plugins: [],
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
@@ -32,10 +33,4 @@ module.exports = {
       },
     },
   },
-  plugins: [
-    require("postcss-import"),
-    require("tailwindcss/nesting")(require("postcss-nesting")),
-    require("autoprefixer"),
-    require("tailwindcss"),
-  ],
 };
