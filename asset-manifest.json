@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Template4-react/static/css/main.0e8f9832.css",
+    "main.js": "/Template4-react/static/js/main.acacfe50.js",
+    "index.html": "/Template4-react/index.html",
+    "main.0e8f9832.css.map": "/Template4-react/static/css/main.0e8f9832.css.map",
+    "main.acacfe50.js.map": "/Template4-react/static/js/main.acacfe50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8f9832.css",
+    "static/js/main.acacfe50.js"
+  ]
+}
