@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Template4-react/static/css/main.0e8f9832.css",
-    "main.js": "/Template4-react/static/js/main.9c58af05.js",
+    "main.js": "/Template4-react/static/js/main.c1e8a907.js",
+    "static/media/welcome.png": "/Template4-react/static/media/welcome.3a0dea0e2afe2ce1ab2a.png",
     "index.html": "/Template4-react/index.html",
     "main.0e8f9832.css.map": "/Template4-react/static/css/main.0e8f9832.css.map",
-    "main.9c58af05.js.map": "/Template4-react/static/js/main.9c58af05.js.map"
+    "main.c1e8a907.js.map": "/Template4-react/static/js/main.c1e8a907.js.map"
   },
   "entrypoints": [
     "static/css/main.0e8f9832.css",
-    "static/js/main.9c58af05.js"
+    "static/js/main.c1e8a907.js"
   ]
 }
