@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/Template4-react/static/css/main.0e8f9832.css",
-    "main.js": "/Template4-react/static/js/main.2df71c50.js",
-    "static/media/welcome.png": "/Template4-react/static/media/welcome.3a0dea0e2afe2ce1ab2a.png",
-    "static/media/png.svg": "/Template4-react/static/media/png.b53643fe9ad02435f50b1b0706feb58c.svg",
-    "static/media/eps.svg": "/Template4-react/static/media/eps.4ff492e31752118e62ed3e97668e8100.svg",
-    "static/media/psd.svg": "/Template4-react/static/media/psd.6dda1b1f76ae4c6047a57a6c5d1e4d94.svg",
-    "static/media/pdf.svg": "/Template4-react/static/media/pdf.9ae431294cccc46fea9c16ea41a2fb13.svg",
-    "static/media/avi.svg": "/Template4-react/static/media/avi.b31b126e336512377f7656922ebe7357.svg",
-    "static/media/dll.svg": "/Template4-react/static/media/dll.7db3001414bd4da8d79264121905145f.svg",
-    "index.html": "/Template4-react/index.html",
-    "main.0e8f9832.css.map": "/Template4-react/static/css/main.0e8f9832.css.map",
-    "main.2df71c50.js.map": "/Template4-react/static/js/main.2df71c50.js.map"
+    "main.css": "/static/css/main.b4030554.css",
+    "main.js": "/static/js/main.785638e2.js",
+    "index.html": "/index.html",
+    "main.b4030554.css.map": "/static/css/main.b4030554.css.map",
+    "main.785638e2.js.map": "/static/js/main.785638e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e8f9832.css",
-    "static/js/main.2df71c50.js"
+    "static/css/main.b4030554.css",
+    "static/js/main.785638e2.js"
   ]
 }
