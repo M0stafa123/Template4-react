@@ -19,7 +19,7 @@ const Dashboard = () => {
           />
 
           <div className="text flex p-2.5 text-center relative border-t border-t-hoverColor border-b border-b-hoverColor my-10 py-2.5 text-sm">
-            <div className=" grow">
+            <div className=" grow ">
               <h4 className=" my-2.5">sasa mohamed</h4>
               <span className=" text-shades">developer</span>
             </div>
@@ -41,9 +41,7 @@ const Dashboard = () => {
         </div>
         <div className="draft p-2.5 rounded-md bg-white">
           <h2 className="text-3xl my-5">Quick Draft</h2>
-          <p className="text-shades -mt-2.5 text-sm">
-            Write A Draft htmlFor Your Ideas
-          </p>
+          <p className="text-shades -mt-2.5 text-sm">Write A Draft For Your Ideas</p>
           <form className="flex flex-col gap-2.5">
             <input type="text" placeholder="title" className="rounded-md" />
             <textarea
@@ -64,7 +62,7 @@ const Dashboard = () => {
         <div className="target rounded-md bg-white p-2.5">
           <h2>yearly target</h2>
           <p>Targets Of The Year</p>
-          <div className=" flex items-center gap-2.5 mt-4">
+          <div className="target-child flex items-center gap-2.5 mt-4">
             <div className="!bg-[#cce3ff] !text-blueColor">
               <i className="fa-solid fa-dollar-sign"></i>
             </div>
@@ -76,7 +74,7 @@ const Dashboard = () => {
               </div>
             </div>
           </div>
-          <div className=" flex items-center gap-2.5 mt-4">
+          <div className="target-child flex items-center gap-2.5 mt-4">
             <div className=" !bg-[#fdecce] !text-[#f59e0b]">
               <i className="fa-solid fa-code"></i>
             </div>
@@ -88,7 +86,7 @@ const Dashboard = () => {
               </div>
             </div>
           </div>
-          <div className=" flex items-center gap-2.5 mt-4">
+          <div className="target-child flex items-center gap-2.5 mt-4">
             <div className="!bg-[#d3f3df] !text-[#22c55e]">
               <i className="fa-solid fa-user"></i>
             </div>
@@ -402,8 +400,8 @@ const Dashboard = () => {
       <div className="projects-table rounded-md bg-white p-2.5">
         <h2 className=" py-5 text-4xl">Projects</h2>
         <div>
-          <table className="fs-15 w-full">
-            <thead>
+          <table className=" min-w-[1000px] w-full">
+            <thead className=" bg-hoverColor">
               <tr>
                 <td>Name</td>
                 <td>Finish Date</td>

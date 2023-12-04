@@ -42,7 +42,7 @@ const Plans = () => {
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="flex items-center justify-between">
-                <span>1 GB Space htmlFor Hosting Files</span>
+                <span>1 GB Space For Hosting Files</span>
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="flex items-center justify-between">
@@ -93,7 +93,7 @@ const Plans = () => {
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="flex items-center justify-between">
-                <span>1 GB Space htmlFor Hosting Files</span>
+                <span>1 GB Space For Hosting Files</span>
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="flex items-center justify-between">
@@ -144,7 +144,7 @@ const Plans = () => {
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="available flex items-center justify-between">
-                <span>1 GB Space htmlFor Hosting Files</span>
+                <span>1 GB Space For Hosting Files</span>
                 <i className="fa-solid fa-circle-info help"></i>
               </li>
               <li className="available flex items-center justify-between">

@@ -91,8 +91,8 @@ const Courses = () => {
           <div className="description">
             <h3>Mastering Python</h3>
             <p>
-              Mastering Python To Prepare htmlFor Data Science And AI And Automating
-              Things in Your Life
+              Mastering Python To Prepare For Data Science And AI And Automating Things
+              in Your Life
             </p>
           </div>
           <div className="course-info flex item-center justify-between">
@@ -221,8 +221,8 @@ const Courses = () => {
           <div className="description">
             <h3>Mastering Python</h3>
             <p>
-              Mastering Python To Prepare htmlFor Data Science And AI And Automating
-              Things in Your Life
+              Mastering Python To Prepare For Data Science And AI And Automating Things
+              in Your Life
             </p>
           </div>
           <div className="course-info flex item-center justify-between">

@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <header className="flex justify-between items-center ">
-      <div className=" rounded-md  p-2.5 border border-fadeColor">
+      <div className="header-child rounded-md  p-2.5 border border-fadeColor">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -22,7 +22,7 @@ const Header = () => {
           placeholder="type a keyword"
         />
       </div>
-      <div className=" gap-2.5">
+      <div className="header-child gap-2.5">
         <section>
           <svg
             xmlns="http://www.w3.org/2000/svg"
